@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hminnovance/static/css/main.3598ca6b.css",
+    "main.js": "/hminnovance/static/js/main.9a86f70f.js",
+    "static/js/787.1140a1e0.chunk.js": "/hminnovance/static/js/787.1140a1e0.chunk.js",
+    "static/media/dgtm_choose_img.webp": "/hminnovance/static/media/dgtm_choose_img.a354a8cc1bcd7299a672.webp",
+    "index.html": "/hminnovance/index.html",
+    "main.3598ca6b.css.map": "/hminnovance/static/css/main.3598ca6b.css.map",
+    "main.9a86f70f.js.map": "/hminnovance/static/js/main.9a86f70f.js.map",
+    "787.1140a1e0.chunk.js.map": "/hminnovance/static/js/787.1140a1e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3598ca6b.css",
+    "static/js/main.9a86f70f.js"
+  ]
+}
